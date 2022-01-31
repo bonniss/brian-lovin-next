@@ -37,7 +37,7 @@
     "cryptr": "^6.0.2",
     "date-fns": "^2.28.0",
     "deepmerge": "^4.2.2",
-    "fathom-client": "^3.3.1",
+    "fathom-client": "^3.4.0",
     "feed": "^4.2.2",
     "framer-motion": "^6.2.1",
     "graphql": "^16.2.0",
