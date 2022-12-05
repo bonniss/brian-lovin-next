@@ -10451,10 +10451,10 @@ react-linkify@^1.0.0-alpha:
     linkify-it "^2.0.3"
     tlds "^1.199.0"
 
-react-markdown@^8.0.3:
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/react-markdown/-/react-markdown-8.0.3.tgz#e8aba0d2f5a1b2124d476ee1fff9448a2f57e4b3"
-  integrity sha512-We36SfqaKoVNpN1QqsZwWSv/OZt5J15LNgTLWynwAN5b265hrQrsjMtlRNwUvS+YyR3yDM8HpTNc4pK9H/Gc0A==
+react-markdown@^8.0.4:
+  version "8.0.4"
+  resolved "https://registry.yarnpkg.com/react-markdown/-/react-markdown-8.0.4.tgz#b5ff1f0f29ead71a7a6f98815eb1a70bcc2a036e"
+  integrity sha512-2oxHa6oDxc1apg/Gnc1Goh06t3B617xeywqI/92wmDV9FELI6ayRkwge7w7DoEqM0gRpZGTNU6xQG+YpJISnVg==
   dependencies:
     "@types/hast" "^2.0.0"
     "@types/prop-types" "^15.0.0"
@@ -12451,14 +12451,6 @@ unist-util-visit-parents@^4.0.0:
     "@types/unist" "^2.0.0"
     unist-util-is "^5.0.0"
 
-unist-util-visit-parents@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/unist-util-visit-parents/-/unist-util-visit-parents-5.1.0.tgz#44bbc5d25f2411e7dfc5cecff12de43296aa8521"
-  integrity sha512-y+QVLcY5eR/YVpqDsLf/xh9R3Q2Y4HxkZTp7ViLDU6WtJCEcPmRzW1gpdWDCDIqIlhuPDXOgttqPlykrHYDekg==
-  dependencies:
-    "@types/unist" "^2.0.0"
-    unist-util-is "^5.0.0"
-
 unist-util-visit-parents@^5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/unist-util-visit-parents/-/unist-util-visit-parents-5.1.1.tgz#868f353e6fce6bf8fa875b251b0f4fec3be709bb"
@@ -12476,16 +12468,7 @@ unist-util-visit@^3.0.0:
     unist-util-is "^5.0.0"
     unist-util-visit-parents "^4.0.0"
 
-unist-util-visit@^4.0.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-4.1.0.tgz#f41e407a9e94da31594e6b1c9811c51ab0b3d8f5"
-  integrity sha512-n7lyhFKJfVZ9MnKtqbsqkQEk5P1KShj0+//V7mAcoI6bpbUjh3C/OG8HVD+pBihfh6Ovl01m8dkcv9HNqYajmQ==
-  dependencies:
-    "@types/unist" "^2.0.0"
-    unist-util-is "^5.0.0"
-    unist-util-visit-parents "^5.0.0"
-
-unist-util-visit@^4.1.1:
+unist-util-visit@^4.0.0, unist-util-visit@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-4.1.1.tgz#1c4842d70bd3df6cc545276f5164f933390a9aad"
   integrity sha512-n9KN3WV9k4h1DxYR1LoajgN93wpEi/7ZplVe02IoB4gH5ctI1AaF2670BLHQYbwj+pY83gFtyeySFiyMHJklrg==
