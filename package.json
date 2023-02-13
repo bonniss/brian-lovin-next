@@ -24,7 +24,7 @@
     "@apollo/link-error": "^2.0.0-beta.3",
     "@apollo/link-schema": "^2.0.0-beta.3",
     "@auth0/nextjs-auth0": "^2.2.1",
-    "@graphql-tools/schema": "^9.0.15",
+    "@graphql-tools/schema": "^9.0.16",
     "@headlessui/react": "^1.7.9",
     "@prisma/client": "^4.10.1",
     "@tailwindcss/forms": "^0.5.3",
