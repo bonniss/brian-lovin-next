@@ -96,7 +96,7 @@
     "@types/node": "^18.16.3",
     "@types/react": "^18.0.38",
     "@types/webrtc": "^0.0.35",
-    "@typescript-eslint/parser": "^5.59.0",
+    "@typescript-eslint/parser": "^5.59.1",
     "autoprefixer": "^10.4.14",
     "babel-eslint": "^10.1.0",
     "cypress": "^12.10.0",
