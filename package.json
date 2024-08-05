@@ -52,7 +52,7 @@
     "lru-cache": "^6.0.0",
     "next": "^13",
     "next-seo": "^4.28.1",
-    "postmark": "^2.8.1",
+    "postmark": "^4.0.4",
     "react": "^18.2.0",
     "react-autosize-textarea": "^7.1.0",
     "react-dom": "^18.2.0",
